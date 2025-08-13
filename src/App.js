@@ -12,14 +12,14 @@ function App() {
          <p>
           M&oacute;dulo 10 - Pr&aacute;ctica 2.3
         </p>
-        {/*<a
+        <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cecytem.edomex.gob.mx/villa_de_allende"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>*/}
+          Informaci&oacute;n del plantel
+        </a>
       </header>
     </div>
   );
